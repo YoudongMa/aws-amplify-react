@@ -8,3 +8,5 @@ phases:
     commands:
       - npm test
 artifacts:
+  files:
+    -  README.md
