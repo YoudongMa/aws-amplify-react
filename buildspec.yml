@@ -4,9 +4,7 @@ phases:
     commands:
       - npm install
 
-  post_build:
-    commands:
-      - npm test
+
 artifacts:
   files:
     -  README.md
