@@ -3,8 +3,3 @@ phases:
   install:
     commands:
       - npm install
-
-
-artifacts:
-  files:
-    -  README.md
