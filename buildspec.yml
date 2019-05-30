@@ -7,3 +7,4 @@ phases:
   post_build:
     commands:
       - npm test
+artifacts:
